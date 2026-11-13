@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm Currently working as Intern at Zenithindia.<br>I'm in final year of my UG at Parul University.<br>I'm skilled at deployment of various Models and algorithm.
+# 💫 About Me
+
+👋 Hi, I'm a Computer Science Engineering (AI) graduate passionate about building practical AI-powered solutions.
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and Large Language Models (LLMs).
+
+💻 Experienced in Python, JavaScript, React.js, FastAPI, and working with AI/ML models and APIs.
+
+🚀 Skilled in developing, integrating, and deploying AI/ML solutions and building full-stack applications.
+
+🌱 Currently exploring Agentic AI, LangChain, RAG, and MLOps.
+
+🎯 Open to opportunities in AI/ML Engineering, AI Engineering, and Python Development.
 
 
 ## 🌐 Socials:
